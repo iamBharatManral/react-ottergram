@@ -1,2 +1,1 @@
-# react-ottergram
-Created with CodeSandbox
+Ottergram
